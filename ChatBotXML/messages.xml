@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE messages [
+	<!ELEMENT messages (positive, negative, neutral, sad, angry)>
+	<!ELEMENT positive (message*)>
+	<!ELEMENT negative (message*)>
+	<!ELEMENT neutral (message*)>
+	<!ELEMENT sad (message*)>
+	<!ELEMENT angry (message*)>
+	<!ELEMENT message (#PCDATA)>
+]>
+<messages>
+	<positive>
+		<message>Good morning! The sun is shining brightly today.</message>
+		<message>Yes, it's a beautiful day indeed.</message>
+		<message>I've just had the most delicious breakfast.</message>
+		<message>That sounds wonderful! What did you have?</message>
+		<message>Homemade pancakes with fresh berries and a drizzle of honey.</message>
+		<message>Wow, that sounds amazing!</message>
+		<message>It was! I'm feeling energized and ready to take on the day.</message>
+		<message>That's the spirit! Have a fantastic day.</message>
+		<message>Thank you! You too.</message>
+		<message>Just got a call from an old friend. We're planning to catch up over the weekend.</message>
+		<message>That's great! It's always nice to reconnect with old friends.</message>
+		<message>Yes, it is! I'm looking forward to it.</message>
+		<message>I've been reading a really good book recently.</message>
+		<message>Oh? What's it about?</message>
+		<message>It's a mystery novel with lots of unexpected twists and turns. I can't put it down!</message>
+		<message>I've just baked a fresh batch of cookies. The aroma is filling up the house.</message>
+		<message>That sounds delightful! There's something so comforting about freshly baked cookies.</message>
+		<message>My garden is blooming with flowers. It's a beautiful sight!</message>
+		<message>How wonderful! Gardening is such a rewarding hobby.</message>
+		<message>I've just finished painting a landscape. It turned out better than I expected.</message>
+		<message>That's great! Artistic pursuits are so fulfilling.</message>
+		<message>I've started learning a new language. It's challenging but fun.</message>
+		<message>That's impressive! Learning new skills keeps the mind sharp.</message>
+		<message>I'm planning a surprise birthday party for my friend. Can't wait to see her reaction!</message>
+		<message>That's so thoughtful of you! She's lucky to have a friend like you.</message>
+		<message>I've completed a tricky puzzle that I've been working on for days.</message>
+		<message>That must be satisfying! It's great to see hard work pay off.</message>
+		<message>I've been promoted at work! I'm excited about the new opportunities ahead.</message>
+		<message>Congratulations! Your hard work and dedication are paying off.</message>
+		<message>I've just returned from a relaxing vacation. I feel refreshed and rejuvenated.</message>
+		<message>That's wonderful! Everyone deserves a break to recharge now and then.</message>
+		<message>Just finished a great workout session.</message>
+		<message>That's fantastic! Keep up the good work.</message>
+		<message>Thank you! I'm feeling great.</message>
+		<message>That's the best part about working out - the feeling afterwards.</message>
+		<message>Yes, it is! I'm ready to tackle anything now.</message>
+	</positive>
+	<negative>
+		<message>I woke up late today and missed my morning workout.</message>
+		<message>The coffee machine is broken. I had to start my day without coffee.</message>
+		<message>My car wouldn't start this morning. I had to call a tow truck.</message>
+		<message>I have a huge amount of work to do today. It's overwhelming.</message>
+		<message>I lost my phone. I had all my contacts and photos on it.</message>
+		<message>My internet connection keeps dropping. It's so frustrating.</message>
+		<message>My favorite restaurant was closed today. I was really looking forward to that meal.</message>
+		<message>I missed my bus and had to wait for the next one in the rain.</message>
+		<message>I had a disagreement with a friend. It left me feeling upset.</message>
+		<message>The store ran out of the ingredients I needed for dinner. I had to change my plans at the last minute.</message>
+		<message>My laptop crashed and I lost the document I was working on.</message>
+		<message>I forgot my wallet at home and only realized when I was at the checkout.</message>
+		<message>The movie I was excited to watch turned out to be a disappointment.</message>
+		<message>I spilled coffee on my new shirt.</message>
+		<message>I'm feeling unwell and had to cancel my plans for the evening.</message>
+		<message>I misplaced my keys and spent a long time looking for them.</message>
+		<message>The book I was reading ended on a sad note. It left me feeling down.</message>
+		<message>I tried a new recipe and it didn't turn out well.</message>
+		<message>I made a mistake at work and it cost me a lot of time.</message>
+		<message>I got stuck in traffic and missed an important appointment.</message>
+		<message>I've been working on a puzzle for days and I just can't seem to finish it.</message>
+		<message>I was really looking forward to the concert, but it got cancelled.</message>
+		<message>The weather has been really gloomy these past few days.</message>
+		<message>I tried making a new dish for dinner, but it didn't turn out as expected.</message>
+		<message>I lost an important document and I can't seem to find it anywhere.</message>
+		<message>I've been feeling really tired lately and I don't know why.</message>
+		<message>I keep making mistakes in my new project at work.</message>
+		<message>I forgot to water my plants and they're not looking too good now.</message>
+		<message>I lost the match I was so excited to play.</message>
+		<message>The book I was excited to read turned out to be really boring.</message>
+		<message>The vacation I had been planning for months had to be cancelled.</message>
+		<message>I was expecting a promotion at work, but I didn't get it.</message>
+		<message>I've been trying to learn a new skill, but it's a lot harder than I thought.</message>
+		<message>I missed my alarm and was late for my meeting.</message>
+		<message>The gift I ordered for my friend's birthday didn't arrive on time.</message>
+		<message>The new coffee shop I tried had really bad coffee.</message>
+		<message>I got caught in the rain and didn't have an umbrella.</message>
+		<message>I overcooked dinner and had to order takeout.</message>
+		<message>I've been feeling really stressed out with work lately.</message>
+		<message>I accidentally deleted a file on my computer that I needed.</message>
+		<message>The training session I attended was really boring and unhelpful.</message>
+		<message>The movie I watched last night was a complete waste of time.</message>
+		<message>I got a parking ticket today.</message>
+		<message>The new video game I bought isn't as good as I thought it would be.</message>
+		<message>I was looking forward to the weekend, but I have to work.</message>
+		<message>My favorite TV show is ending and I'm not ready to say goodbye.</message>
+		<message>I tried a new workout routine and now everything hurts.</message>
+		<message>I was really excited about the party, but it was actually quite dull.</message>
+		<message>I tried to fix a problem with my computer and ended up making it worse.</message>
+		<message>The new shoes I bought are really uncomfortable.</message>
+	</negative>
+	<neutral>
+		<message>It's partly cloudy outside today.</message>
+		<message>The cat is sitting by the window.</message>
+		<message>I've just finished cleaning the kitchen.</message>
+		<message>My meeting at work has been rescheduled.</message>
+		<message>I've got to go grocery shopping later.</message>
+		<message>The postman delivered a package this morning.</message>
+		<message>The bus was on time today.</message>
+		<message>I've just watered the plants.</message>
+		<message>I'm reading a book about history.</message>
+		<message>I've just finished doing the laundry.</message>
+		<message>I received a letter in the mail.</message>
+		<message>I'm planning to cook pasta for dinner.</message>
+		<message>I'm going to the gym later.</message>
+		<message>I've just refueled the car.</message>
+		<message>I've got a dentist appointment next week.</message>
+		<message>The plants need watering.</message>
+		<message>I need to return a book to the library.</message>
+		<message>I'm learning to play the guitar.</message>
+		<message>I've just updated the software on my computer.</message>
+		<message>I'm going to visit my parents this weekend.</message>
+		<message>I've just ordered a pizza.</message>
+		<message>The car needs a wash.</message>
+		<message>I'm attending a conference next month.</message>
+		<message>I need to buy a new pair of shoes.</message>
+		<message>I'm watching a documentary about nature.</message>
+		<message>I've got to finish a report for work.</message>
+		<message>I've just changed the light bulb.</message>
+		<message>I need to buy a birthday present for my friend.</message>
+		<message>I'm thinking of redecorating the living room.</message>
+		<message>I've just made a cup of tea.</message>
+	</neutral>
+	<sad>
+		<message>I'm feeling a bit low today.</message>
+		<message>It's been raining all day and I miss the sunshine.</message>
+		<message>I tried baking a cake today but it didn't turn out well.</message>
+		<message>One of my favorite plants seems to be dying.</message>
+		<message>I miss going to the park, but it's been closed for maintenance.</message>
+		<message>I spilled my coffee all over my new book.</message>
+		<message>I'm feeling a little homesick today.</message>
+		<message>The movie I watched had a really sad ending.</message>
+		<message>I tried calling a friend but they didn't pick up.</message>
+		<message>I was really looking forward to the event, but it got cancelled.</message>
+		<message>I was hoping to spend the day outside but it's just too cold.</message>
+		<message>The book I've been reading ended on a sad note.</message>
+		<message>I've been feeling a bit lonely lately.</message>
+		<message>I lost my favorite earrings.</message>
+		<message>The concert tickets were sold out by the time I tried to buy them.</message>
+		<message>I had a disagreement with a friend and it's been bothering me.</message>
+		<message>I tried a new painting technique and it didn't work out.</message>
+		<message>I was really looking forward to the trip, but it got postponed.</message>
+		<message>I've been feeling a bit under the weather today.</message>
+		<message>I planned a picnic but had to cancel due to bad weather.</message>
+		<message>I was really excited about the new restaurant, but the food was disappointing.</message>
+		<message>I forgot my umbrella and got soaked in the rain.</message>
+		<message>My favorite TV show ended and I feel a bit empty.</message>
+		<message>I wanted to go for a walk but it started raining.</message>
+		<message>I made a mistake at work and I've been feeling bad about it.</message>
+	</sad>
+	<angry>
+		<message>I'm really frustrated with the slow internet connection today.</message>
+		<message>Somebody ate the last piece of cake I was saving for myself.</message>
+		<message>I got a ticket for parking in the wrong spot.</message>
+		<message>The bus was late and I missed my appointment.</message>
+		<message>My computer crashed and I lost hours of work.</message>
+		<message>I'm really fed up with the noisy construction work next door.</message>
+		<message>I can't believe I forgot to save my work before the power went out.</message>
+		<message>I'm upset because my package was delivered to the wrong address.</message>
+		<message>I'm annoyed that my favorite show was cancelled.</message>
+		<message>The store was out of the one item I went in to buy.</message>
+		<message>I'm angry because someone scratched my car in the parking lot.</message>
+		<message>I'm furious about the unfair decision made at work today.</message>
+		<message>I'm really irritated by the constant spam calls I've been getting.</message>
+		<message>The meeting ran over time and made me late for my next appointment.</message>
+		<message>I'm really ticked off about the mess left in the kitchen.</message>
+		<message>My order was messed up at the restaurant.</message>
+		<message>The movie I was excited to watch was a total letdown.</message>
+		<message>I'm mad because my flight was delayed without any reason given.</message>
+		<message>I'm frustrated because I can't find my keys.</message>
+		<message>I'm upset because my favorite team lost the game.</message>
+		<message>The noisy neighbors kept me awake all night.</message>
+		<message>I'm angry because the repairman didn't show up as scheduled.</message>
+		<message>My new shoes are too tight and it's really uncomfortable.</message>
+		<message>I'm annoyed because the concert I was looking forward to got cancelled.</message>
+		<message>I'm irritated because I keep getting interrupted while trying to work.</message>
+	</angry>
+</messages>
